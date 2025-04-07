@@ -13,7 +13,8 @@ This project was created for Southern New Hampshire University's DAT 530 course 
 
 ## 🔗 View or Download
 
-- [📎 Download PowerPoint Presentation (PDF)](link-to-your-ppt)
+- [📎 Download PowerPoint Presentation (PDF)](Snyder_Richard_Milestone_Four_PowerPoint.pptx
+)
 
 ## 🛠 Tools Used
 
